@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2486C009-A1CB-0390-BC41-AA2CAA708385}|">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DC_Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SocketIO" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="SocketIO" expanded="True">
+                    <Node name="SocketIOComponent.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b0f182b3-830c-4473-a8fa-303918ce86dc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
